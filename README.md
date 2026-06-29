@@ -1,5 +1,5 @@
 # DataCamp-Projects
-![["DataCamp-Projects\Exploring NYC Public School Test Result Scores\notebook.ipynb"]]
+[Explore the Jupyter Notebook 📊](Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
 
 ## Key Findings & Results
 
